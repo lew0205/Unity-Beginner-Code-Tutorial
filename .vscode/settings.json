@@ -24,6 +24,7 @@
         "**/*.png":true,
         "**/*.psd":true,
         "**/*.tga":true,
+        "**/*.tif":true,
         "**/*.tiff":true,
         "**/*.3ds":true,
         "**/*.3DS":true,
